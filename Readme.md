@@ -33,7 +33,11 @@ RSA keys may be between 1024 and 4096 bits long.
 What keysize do you want? (3072) 4096
 ```
 
+<<<<<<< HEAD
 ### Inserir por quanto tempo essa key será valida - (1y)[1 ano]
+=======
+### Inserir por quanto tempo essa key será valida - (1y)
+>>>>>>> 89c24ce5c32619fbf7aef8d31b7220a65bb53500
 
 ```bash
 Please specify how long the key should be valid.
@@ -68,7 +72,11 @@ Real name: Igor de Souza Bezerra
 Email address: igor.souza1.bezerra@gmail.com
 ```
 
+<<<<<<< HEAD
 ### Confirmar dados - (o)
+=======
+### Confirmar dados
+>>>>>>> 89c24ce5c32619fbf7aef8d31b7220a65bb53500
 
 ```bash
 GnuPG needs to construct a user ID to identify your key.
